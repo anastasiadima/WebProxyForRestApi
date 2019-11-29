@@ -1,0 +1,14 @@
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\bin\Debug\netcoreapp2.1\ServerProxy.deps.json
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\bin\Debug\netcoreapp2.1\ServerProxy.runtimeconfig.json
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\bin\Debug\netcoreapp2.1\ServerProxy.runtimeconfig.dev.json
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\bin\Debug\netcoreapp2.1\ServerProxy.dll
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\bin\Debug\netcoreapp2.1\ServerProxy.pdb
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.RazorAssemblyInfo.cache
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.RazorAssemblyInfo.cs
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.AssemblyInfoInputs.cache
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.AssemblyInfo.cs
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.RazorTargetAssemblyInfo.cache
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.dll
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.pdb
+C:\Users\Anastasia\source\repos\Proxy\ServerProxy\obj\Debug\netcoreapp2.1\ServerProxy.csprojAssemblyReference.cache
